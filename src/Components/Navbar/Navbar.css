@@ -1,0 +1,13 @@
+.test * {
+}
+
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+.navbar-nav.navbar-left {
+  position: absolute;
+  left: 85%;
+  transform: translatex(-50%);
+}
